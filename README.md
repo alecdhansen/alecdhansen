@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alec
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript
 - 📫 Reach me via email at alecdhansen@gmail.com
 
