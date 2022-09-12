@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alec
-- 🌱 I’m currently learning Javascript
-- 📫 Reach me via email at alecdhansen@gmail.com
+- 👋 Hi, I’m Alec 
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 📫 Reach me via email at alecdhansen@gmail.com or on LinkedIn at https://www.linkedin.com/in/alec-hansen-9885396a/
 
 <!---
 alecdhansen/alecdhansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
