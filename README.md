@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alec 
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning Javascript and React
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alec-hansen-9885396a/)
 
 <!---
