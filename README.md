@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alec 
-- 🌱 I’m currently learning JavsScript/React, Python, Django
-- 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alec-hansen-9885396a/)
+- 🌱 I’m currently learning React, Python, Django
+- 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 
 <!---
 alecdhansen/alecdhansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
