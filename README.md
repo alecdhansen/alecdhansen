@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alec 
-- 🌱 I’m currently learning React, Python, Django
+- 🌱 I’m currently learning Angular and TypeScript.
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 
 <!---
