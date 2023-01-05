@@ -9,8 +9,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecdhansen&theme=gotham" />
 <!-- </a> -->
 
-![Alt Text](https://media2.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e478hisqaqkschrj4fhbo3lt8nixhm8mm9c8ghfyygk&rid=giphy.gif&ct=g)
-<!---
-alecdhansen/alecdhansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ![Alt Text](https://media2.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e478hisqaqkschrj4fhbo3lt8nixhm8mm9c8ghfyygk&rid=giphy.gif&ct=g) -->
+
