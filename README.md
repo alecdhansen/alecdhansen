@@ -2,9 +2,14 @@
 - 🌱 I’m currently learning Angular and TypeScript.
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=alecdhansen&show_icons=true&theme=gotham" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alecdhansen&show_icons=true&theme=gotham" />
+<!-- </a> -->
+<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecdhansen&theme=gotham" />
+<!-- </a> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alecdhansen&theme=gotham" />
+![Alt Text](https://media2.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e478hisqaqkschrj4fhbo3lt8nixhm8mm9c8ghfyygk&rid=giphy.gif&ct=g)
 <!---
 alecdhansen/alecdhansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
