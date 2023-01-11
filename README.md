@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alec 
-- 🌱 I’m currently learning Angular and TypeScript.
+- ✍️ I'm actively contributing to a private project built in React Native and TypeScript.
+- 🌱 I’m dabbling in Angular and Vue! I want to know what the king of JavaScript is 👑
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
