@@ -1,7 +1,7 @@
 <h1>Hi, I’m Alec 👋</h1>
 
-- ✍️ I'm actively contributing to a private project built in React Native and TypeScript. 
-- 🌱 I’m dabbling in Angular and Vue! I want to know what the king of JavaScript is 👑
+- ✍️ I'm actively contributing to a private project built in **React Native** and **TypeScript**. 
+- 🌱 I’m dabbling in **Angular** and **Vue**! I want to know what the king of JavaScript is 👑
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 
 <h2>Languages I know ↓ </h2>
