@@ -34,6 +34,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <p align="center">
@@ -41,6 +42,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alecdhansen&show_icons=true&theme=gotham" />
 </p>
   
+  
+  
+<!--   badges site ---> https://github.com/Ileriayo/markdown-badges -->
 
 
 
