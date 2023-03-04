@@ -1,3 +1,5 @@
+![screenshot](IMG_7748.JPG)
+
 <h1>Hi, I’m Alec 👋</h1>
 
 - ✍️ I'm actively contributing to a private project built in **React Native** and **TypeScript**. 
