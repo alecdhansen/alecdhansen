@@ -1,4 +1,4 @@
-![screenshot](banner.png)
+<img>![screenshot](banner.png)</img>
 
 <h1>Hi, I’m Alec 👋</h1>
 
