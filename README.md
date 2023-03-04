@@ -1,4 +1,4 @@
-![screenshot](IMG_7748.JPG)
+![screenshot](banner.png)
 
 <h1>Hi, I’m Alec 👋</h1>
 
