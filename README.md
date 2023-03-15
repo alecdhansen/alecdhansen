@@ -43,7 +43,7 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecdhansen&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api?username=alecdhansen&show_icons=true&theme=gotham" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=alecdhansen&show_icons=true&theme=gotham" /> -->
 </p>
   
   
