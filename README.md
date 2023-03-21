@@ -2,6 +2,7 @@
 
 <h1>Hi, I’m Alec 👋</h1>
 
+- 👔 Freelance Web and Mobile Developer
 - ✍️ I'm actively contributing to a private project built in **React Native** and **TypeScript**. 
 - 🌱 I’m dabbling in **Angular** and **Vue**! I want to know what the king of JavaScript is 👑
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
