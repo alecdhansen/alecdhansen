@@ -3,7 +3,7 @@
 <h1>Hi, I’m Alec 👋</h1>
 
 - 👔 Freelance Web and Mobile Developer
-- ✍️ I'm actively contributing to a private project built in **React Native** and **TypeScript**. 
+- ✍️ I'm actively contributing to a private project built in **React Native** and **TypeScript** for Purple Wren Digital.
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 - 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.me.
 
