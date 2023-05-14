@@ -5,7 +5,7 @@
 - 👔 Freelance Web and Mobile Developer
 - ✍️ I'm currently building a real estate application built in **React Native** and **TypeScript** for Purple Wren Digital full-time.
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
-- 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.me.
+- 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.me
 
 <h2>Languages I know ↓ </h2>
 
