@@ -1,6 +1,6 @@
 <img>![screenshot](banner.png)</img>
 
-<h1>Hi, I’m Alec! :) 👋</h1>
+<h1>Hi, I’m Alec! 👋</h1>
 
 - 👔 Freelance Web and Mobile Developer
 - ✍️ I'm currently building a real estate application built in **React Native** and **TypeScript** for Purple Wren Digital full-time.
