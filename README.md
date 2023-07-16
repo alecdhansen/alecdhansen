@@ -1,4 +1,4 @@
-<img>![screenshot](banner.png)</img>
+![IMG_9712](https://github.com/alecdhansen/alecdhansen/assets/25291098/8d01be04-ced3-4eb7-98ab-dcd4e51713fd)
 
 <h1>Hi, I’m Alec! 👋</h1>
 
