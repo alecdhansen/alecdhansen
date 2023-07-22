@@ -3,7 +3,7 @@
 <h1>Hi, I’m Alec! :) 👋</h1>
 
 - 👔 Freelance Web and Mobile Developer
-- ✍️ I'm currently building a real estate application built in **React Native** and **TypeScript** for Purple Wren Digital full-time.
+- ✍️ I'm currently building a real estate application built in **React Native** and **TypeScript** for Purple Wren Digital full-time. We are launching to the Apple App store soon! Stayed tuned 👀
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 - 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.me
 
