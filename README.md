@@ -1,6 +1,6 @@
 ![IMG_9712](https://github.com/alecdhansen/alecdhansen/assets/25291098/8d01be04-ced3-4eb7-98ab-dcd4e51713fd)
 
-<h1>Hi, I’m Alec! :) 👋</h1>
+<h1>Hi, I’m Alec! 👋</h1>
 
 - 👔 Freelance Web and Mobile Developer
 - ✍️ I'm currently building a real estate application built in **React Native** and **TypeScript** for Purple Wren Digital full-time. We are launching to the Apple App store soon! Stayed tuned 👀
