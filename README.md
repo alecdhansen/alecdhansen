@@ -3,7 +3,7 @@
 <h1>Hi, I’m Alec! 👋</h1>
 
 - 👔 Freelance Web and Mobile Developer
-- ✍️ I recently built and now maintain and add features to Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/flika-real-estate/id6448050206>Flika</a>
+- ✍️ I recently built and now maintain and add features to Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/flika-real-estate/id6448050206">Flika</a>
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 - 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.me
 
