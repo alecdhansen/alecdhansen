@@ -1,6 +1,6 @@
 ![IMG_9712](https://github.com/alecdhansen/alecdhansen/assets/25291098/8d01be04-ced3-4eb7-98ab-dcd4e51713fd)
 
-<h1>Hi, I’m Alec 👋</h1>
+<h1>Hi, I’m Alec! 👋</h1>
 
 - 👔 Web and Mobile Developer for <a href="https://purplewrendigital.com">Purple Wren Digital</a> 💜
 - ✍️ I recently completed V1 and now maintain and add features to Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/app/flika-real-estate/id6448050206">Flika</a>
