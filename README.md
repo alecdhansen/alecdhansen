@@ -3,7 +3,8 @@
 <h1>Hi, I’m Alec! 👋</h1>
 
 - 👔 Fullstack Web and Mobile Developer for <a href="https://purplewrendigital.com">Purple Wren Digital</a> 💜
-- ✍️ I recently completed V1 and now maintain and add features to Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/app/flika-real-estate/id6448050206">Flika</a>
+- I currently split my time between two projects writing Go+Nextjs and React
+- ✍️ I lead the development team behind Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/app/flika-real-estate/id6448050206">Flika</a>
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
 - 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.com
 
