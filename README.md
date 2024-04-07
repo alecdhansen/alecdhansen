@@ -1,4 +1,4 @@
-![IMG_9712](https://github.com/alecdhansen/alecdhansen/assets/25291098/8d01be04-ced3-4eb7-98ab-dcd4e51713fd)
+![IMG_2804](https://github.com/alecdhansen/alecdhansen/assets/25291098/7710551b-4df3-4b72-8adb-c8966fa10382)
 
 <h1>Hi, I’m Alec! 👋</h1>
 
