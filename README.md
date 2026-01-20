@@ -1,12 +1,8 @@
-![IMG_2804](https://github.com/alecdhansen/alecdhansen/assets/25291098/7710551b-4df3-4b72-8adb-c8966fa10382)
-
 <h1>Hi, I’m Alec! 👋</h1>
 
-- 👔 Fullstack Web and Mobile Developer for <a href="https://purplewrendigital.com">Purple Wren Digital</a> 💜
-- ✍️ I write React Native (Bare and Expo) and React (CRA, Nextjs) fulltime
-- 🧑‍🧒‍🧒 I previously led the development team behind Flika. It's built in **React Native** and **TypeScript**. Check it out here -> <a href="https://apps.apple.com/us/app/flika-real-estate/id6448050206">Flika</a>
+- 👔 Fullstack Web and Mobile Developer for <a href="https://bookshop.org">Bookshop.org</a> 💜📚
+- ✍️ I write React Native (Bare and Expo) fulltime
 - 📫 Reach me via email at alecdhansen@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alecdhansen/)
-- 🧑🏻‍💻 I've got a site! Check me out over at www.alechansen.com
 
 <h2>Languages I know ↓ </h2>
 
